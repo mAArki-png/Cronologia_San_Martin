@@ -1,0 +1,112 @@
+body{
+    background:#59BBD8;
+    background-image:url(https://img.freepik.com/vector-gratis/montana-paisaje-nevado_603843-2285.jpg?size=626&ext=jpg&ga=GA1.1.102910902.1707248967&semt=ais);
+    background-size:cover;
+  
+  }
+  #main{
+    background:rgba(216,205, 98, .9);
+    box-sizing:border-box;
+    margin:50px 10%;
+    border-radius:9px;
+    border:9px double #776D09;
+  }
+  /*-----HEADER------*/
+  #title{
+    text-align:center;
+    padding-top:30px;
+    font-family: "Lato", sans-serif;
+    font-size:45px;
+  }
+  .info{
+      font-family: "Lato", sans-serif;
+      font-size:30px;
+      padding-left:40px;
+      padding-right:40px;
+      padding-top:20px;
+      text-align:center;
+      line-height: 40px;
+  }
+  /*--------------------*/
+  
+  /*---BODY----------*/
+  #img-div{
+    background-color:rgba(2,112,136);
+    border-radius:9px;
+    margin-top: -5%;
+    border:9px double #fff;
+  }
+  #image{
+    display:block;
+    max-width:100%;
+    width:85%;
+    height:auto;
+    margin:auto;
+    padding-top:40px;
+    border-radius: 9px;
+  }
+  #img-caption{
+    text-align:center;
+    font-size:27px;
+    padding-top:20px;
+    padding-bottom:20px;
+    color:#CFE0E4;
+    font-family: "Lato", sans-serif;
+  }
+  #cro-time{
+    text-align:center;
+    font-family: "Lato", sans-serif;
+  }
+  #cro-time ul{
+  margin-right:17%;
+  padding-left:17%;
+  }
+  #cro-time li{
+  padding-top:20px;
+  padding-bottom:20px;
+  letter-spacing:.9px;
+  font-size:25.5px;
+  text-align:left;
+  line-height:35px;
+  }
+  #cro-time h2{
+    font-size:35px;
+    padding-top:15px;
+    padding-bottom:10px;
+  }
+  #tribute-info{
+     font-family: "Lato", sans-serif;
+  }
+  #tribute-info p{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:15px;
+    font-size:35px
+  }
+  /*----------------------*/
+  
+  /*-----------footer-----*/
+  
+  p{
+    font-size:30px;
+    font-family: "Lato", sans-serif;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:35px;
+    padding-left:25px;
+    padding-right:25px;
+  }
+  p a{
+    color:black;
+    
+  }
+  p a:hover{
+    color:black;
+    font-size:30px;
+    background-color:white;
+  }
+  a:visited{
+    color:white;
+  }
+  
+  
